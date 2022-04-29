@@ -14,7 +14,7 @@ var (
 	err    error
 	host   = "localhost"
 	user   = "postgres"
-	pass   = "admin123"
+	pass   = "adminaja"
 	dbport = "5432"
 	dbname = "finalprogo"
 )
